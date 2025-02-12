@@ -1,16 +1,25 @@
-## Hi there 👋
+# Enmi Geanell Valquiria Mancilla Agurto 👋
 
-<!--
-**emiagurto/emiagurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Hola, soy **Enmi Geanell Valquiria Mancilla Agurto**, pero me puedes conocer como **emiagurto** en GitHub. Soy una **desarrolladora junior** apasionada por el diseño web y la creación de proyectos innovadores. Me encanta trabajar con **Python** y **Arduino**, y disfruto aprender nuevas tecnologías y herramientas que me permitan crear soluciones prácticas y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades:
+- **Desarrollo web**: Creación de sitios web con tecnologías como HTML, CSS, JavaScript y frameworks.
+- **Python**: Desarrollo de proyectos y automatización con Python.
+- **Arduino**: Diseño y programación de proyectos con Arduino.
+
+### Proyectos Destacados:
+- **[Proyecto 1](enlace-al-proyecto)**: Descripción breve del proyecto.
+- **[Proyecto 2](enlace-al-proyecto)**: Descripción breve del proyecto.
+
+### Enlaces:
+- [GitHub](https://github.com/emiagurto)
+- [LinkedIn](tu-linkedin) *(si tienes uno, por favor, compártelo)*
+- [Twitter](tu-twitter) *(si tienes uno, por favor, compártelo)*
+
+## Contacto
+
+Puedes contactarme a través de:
+- Correo: [tu correo electrónico]
+- Redes sociales: [enlaces a tus redes]
